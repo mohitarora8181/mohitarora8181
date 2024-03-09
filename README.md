@@ -1,11 +1,12 @@
 # Hi Viewer ! 👋 I'm Mohit Arora
 
-I'm a passionate developer with expertise in various technologies. Welcome to my GitHub profile!
+I'm a passionate developer with intermediate level experience in various technologies. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
 - 💻 MERN Stack Developer
-- 🎓 Btech.IT Graduate @ 2026
+- 🤖 Robotics and Automation enthusiast, IEEE Hardware Lead @2024.
+- 🎓 Btech.IT Graduate MSIT@2026
 - 🌱 Always learning and exploring new technologies
 - 📫 Reach me: [mohit8181@ieee.org](mailto:mohit8181@ieee.org)
 
@@ -18,9 +19,9 @@ I'm a passionate developer with expertise in various technologies. Welcome to my
 
 ## 🌟 Interact with me
 
-Feel free to connect with me on:
+Feel free to connect with me on: [https://linkedin.com/in/mohit8181]
 
-- [https://linkedin.com/in/mohit8181]
+![GIF 1]([link-to-gif-1.gif](https://lottie.host/embed/a82091e2-5d95-4bbe-83ec-da1d6da68fe4/fN8nEakOgc.json))
 
 ## 📈 GitHub Stats
 
