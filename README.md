@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi Viewer ! 👋 I'm Mohit Arora
 
-<!--
-**mohitarora8181/mohitarora8181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with expertise in various technologies. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 MERN Stack Developer
+- 🎓 Btech.IT Graduate @ 2026
+- 🌱 Always learning and exploring new technologies
+- 📫 Reach me: [mohit8181@ieee.org](mailto:mohit8181@ieee.org)
+
+## 🛠️ Tech Stack
+
+- Frontend: React, JavaScript, Tailwind CSS, Bootstrap
+- Backend: Express, Node.js
+- Languages: C++, C, Java, Python
+
+
+## 🌟 Interact with me
+
+Feel free to connect with me on:
+
+- [https://linkedin.com/in/mohit8181]
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitarora8181&show_icons=true&theme=radical)
+
