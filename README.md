@@ -21,9 +21,6 @@ I'm a passionate developer with intermediate level experience in various technol
 
 Feel free to connect with me on: [https://linkedin.com/in/mohit8181]
 
-![GIF 1]([link-to-gif-1.gif](https://lottie.host/embed/a82091e2-5d95-4bbe-83ec-da1d6da68fe4/fN8nEakOgc.json))
+![GIF 1]([https://lottie.host/embed/a82091e2-5d95-4bbe-83ec-da1d6da68fe4/fN8nEakOgc.json])
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitarora8181&show_icons=true&theme=radical)
 
