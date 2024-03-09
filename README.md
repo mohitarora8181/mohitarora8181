@@ -19,8 +19,9 @@ I'm a passionate developer with intermediate level experience in various technol
 
 ## 🌟 Interact with me
 
-Feel free to connect with me on: [https://linkedin.com/in/mohit8181]
+Feel free to connect with me on: [https://linkedin.com/in/mohit8181](https://linkedin.com/in/mohit8181)
 
-![Lottie Animation GIF](https://lottie.host/embed/a82091e2-5d95-4bbe-83ec-da1d6da68fe4/fN8nEakOgc.json)
+![Animation - 1709976035703](https://github.com/mohitarora8181/mohitarora8181/assets/108920156/80a44b0f-4d1e-4cb9-8779-2de6a1c5cee8)
+
 
 
