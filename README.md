@@ -12,9 +12,9 @@ I'm a passionate developer with intermediate level experience in various technol
 
 ## 🛠️ Tech Stack
 
-- Frontend: React, JavaScript, Tailwind CSS, Bootstrap
-- Backend: Express, Node.js
-- Languages: C++, C, Java, Python
+- <strong>Frontend<strong/>: React, JavaScript, Tailwind CSS, Bootstrap
+- <strong>Backend<strong/>: Express, Node.js
+- <strong>Languages<strong/>: C++, C, Java, Python
 
 
 ## 🌟 Interact with me
