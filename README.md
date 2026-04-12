@@ -66,36 +66,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 📦 Doxs (CLI Tool)
-🔗 https://www.npmjs.com/package/doxs  
-- Auto-generates `README.md` from codebase  
-- Git-diff based **automatic commit message generation**
-
-### 🔐 IfShare (Asset Sharing Platform)
-🔗 https://ifshare.vercel.app/  
-- Secure file & note sharing via **short URLs + encryption**
-- Clean UI for seamless collaboration
-
-### 💬 WhatsApp Clone
-- Built using **React Native + Meta Business API**
-- Real-time messaging with full media support
-
-### 📦 Shipping Service App
-- Web scraping based **tracking + rate calculator system**
-- Multi-screen Android app with real-time data
-
----
-
-## 🌟 Leadership & Achievements
-
-- 🏆 Finalist – Smart India Hackathon 2024  
-- 🎯 Chairperson – eYantra Robotics Society (IIT Bombay)  
-- ⚙️ Hardware Lead – IEEE (2024)  
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: mohitarora00777@gmail.com  
