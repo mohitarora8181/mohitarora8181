@@ -8,7 +8,7 @@ I'm a passionate developer with intermediate level experience in various technol
 - 🤖 Robotics and Automation enthusiast, Eyantra Society Head ,  IEEE Hardware Lead @2024.
 - 🎓 Btech.IT Graduate MSIT@2026
 - 🌱 Always learning and exploring new technologies
-- 📫 Reach me: [mohit8181_it_2026@msit.in](mailto:mohit8181_it_2026@msit.in)
+- 📫 Reach me: [mohitarora00777@gmail.com](mailto:mohitarora00777@gmail.com)
 
 ## 🛠️ Tech Stack
 
