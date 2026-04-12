@@ -1,27 +1,110 @@
-# Hi Viewer ! 👋 I'm Mohit Arora
+# Hi there 👋 I'm Mohit Arora
 
-I'm a passionate developer with intermediate level experience in various technologies. Welcome to my GitHub profile!
+🚀 Full Stack Developer | SDE Intern @ InsuranceDekho  
+🤖 Robotics & Systems Enthusiast | Chairperson @ eYantra | IEEE Hardware Lead  
+🎓 B.Tech IT @ MSIT (2022–2026) | CGPA: 9.03  
 
-## 🚀 About Me
+---
 
-- 💻 Developer
-- 🤖 Robotics and Automation enthusiast, Eyantra Society Head ,  IEEE Hardware Lead @2024.
-- 🎓 Btech.IT Graduate MSIT@2026
-- 🌱 Always learning and exploring new technologies
-- 📫 Reach me: [mohitarora00777@gmail.com](mailto:mohitarora00777@gmail.com)
+## 💡 About Me
+
+- 💻 Full Stack Developer with experience in scalable systems & real-world products  
+- ⚙️ Strong interest in **system design, backend architecture & distributed systems**  
+- 🤖 Robotics enthusiast with hands-on experience in IoT & embedded systems  
+- 🌱 Currently exploring **LLMs, event-driven systems & high-scale architectures**  
+- 🏆 Finalist – Smart India Hackathon 2024  
+
+---
 
 ## 🛠️ Tech Stack
 
-- Frontend : React, JavaScript, Tailwind CSS, Jetpack compose 
-- Backend : Express, Node.js , Kotlin
-- Languages : C++, C, Java, Python
+### 💻 Languages
+`C++` `TypeScript` `JavaScript` `Python` `Java`
 
+### 🌐 Web & App Development
+`React` `Next.js` `Node.js` `Express.js` `NestJS` `Electron.js`  
+`Angular (Basic)` `WebSockets`  
+`Kotlin (Jetpack Compose)` `React Native` `Flutter`
 
-## 🌟 Interact with me
+### 🗄️ Databases & Caching
+`MongoDB` `MySQL` `Firebase` `Supabase` `Redis`
 
-Feel free to connect with me on: [https://linkedin.com/in/mohit8181](https://linkedin.com/in/mohit8181)
+### ⚡ Messaging & Systems
+`Apache Kafka` `RabbitMQ`
 
-![Animation - 1709976035703](https://github.com/mohitarora8181/mohitarora8181/assets/108920156/80a44b0f-4d1e-4cb9-8779-2de6a1c5cee8)
+### ☁️ Cloud & DevOps
+`AWS (EC2, S3, CloudFront, Beanstalk)`  
+`Docker` `Jenkins` `CI/CD Pipelines`
 
+### 🤖 Robotics & IoT
+`Arduino` `ESP32` `ESP8266` `Raspberry Pi`  
+`PCB Designing` `Proteus`
 
+---
 
+## 💼 Experience
+
+### 🚀 SDE Intern – InsuranceDekho (July 2025 – Present)
+- Revamped POS support system with **role-based permissions & Freshdesk integration**
+- Improved UX & adoption using **Redux + Redux-Saga architecture**
+- Built **Electron-based desktop POS app** with webhook notifications & Kafka backend
+- Contributed to backend system for **case allocation service**
+
+### 🤖 SDE Intern – SeedsAI (Mar 2025 – Jun 2025)
+- Built **AI-powered full-stack modules (MERN + LLM integration)**
+- Implemented **real-time logging with Firebase Firestore**
+- Improved performance by **30% via caching & async processing**
+
+### 🌐 Full Stack Intern – Neecop (Feb 2025 – Jun 2025)
+- Developed scalable features for **social platform (MSMEs/startups)**
+- Deployed using **AWS EC2/S3 + custom hosting**
+- Automated CI/CD → reduced downtime by **40%**
+
+### 📱 Tech Intern – Zebpay (Jul 2024 – Nov 2024)
+- Android dev training using **Kotlin + Jetpack Compose**
+- Worked with **RoomDB, Hilt, background services**
+
+---
+
+## 🚀 Projects
+
+### 📦 Doxs (CLI Tool)
+🔗 https://www.npmjs.com/package/doxs  
+- Auto-generates `README.md` from codebase  
+- Git-diff based **automatic commit message generation**
+
+### 🔐 IfShare (Asset Sharing Platform)
+🔗 https://ifshare.vercel.app/  
+- Secure file & note sharing via **short URLs + encryption**
+- Clean UI for seamless collaboration
+
+### 💬 WhatsApp Clone
+- Built using **React Native + Meta Business API**
+- Real-time messaging with full media support
+
+### 📦 Shipping Service App
+- Web scraping based **tracking + rate calculator system**
+- Multi-screen Android app with real-time data
+
+---
+
+## 🌟 Leadership & Achievements
+
+- 🏆 Finalist – Smart India Hackathon 2024  
+- 🎯 Chairperson – eYantra Robotics Society (IIT Bombay)  
+- ⚙️ Hardware Lead – IEEE (2024)  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: mohitarora00777@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/mohit8181  
+- 💻 GitHub: https://github.com/mohitarora8181  
+- 🧠 LeetCode: https://leetcode.com/mohit8181  
+
+---
+
+## ⚡ Fun Fact
+
+I love building systems that **scale, automate, and actually solve real-world problems** — from robotics to backend infra 🚀
