@@ -44,7 +44,11 @@
 
 ## 💼 Experience
 
-### 🚀 SDE Intern – InsuranceDekho (July 2025 – Present)
+### 🚀 SDE 1 – InsuranceDekho (July 2026 – Present)
+- Developed full stack solution for their Lead Management system - Include crucial features of Dialer , Allocation to Advisors , Whatsapp Integrations and Campaign Management.
+- Agentic Workflows for company database validations with a self hosted Workflow manager like N8n .
+
+### 🚀 SDE Intern – InsuranceDekho (July 2025 – June 2026)
 - Revamped POS support system with **role-based permissions & Freshdesk integration**
 - Improved UX & adoption using **Redux + Redux-Saga architecture**
 - Built **Electron-based desktop POS app** with webhook notifications & Kafka backend
