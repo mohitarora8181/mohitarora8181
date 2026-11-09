@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mohit Arora
 
-🚀 Full Stack Developer | SDE Intern @ InsuranceDekho  
+🚀 Full Stack Developer | SDE  @ InsuranceDekho  
 🤖 Robotics & Systems Enthusiast | Chairperson @ eYantra | IEEE Hardware Lead  
 🎓 B.Tech IT @ MSIT (2022–2026) | CGPA: 9.03  
 
@@ -75,7 +75,8 @@
 - 📧 Email: mohitarora00777@gmail.com  
 - 🔗 LinkedIn: https://linkedin.com/in/mohit8181  
 - 💻 GitHub: https://github.com/mohitarora8181  
-- 🧠 LeetCode: https://leetcode.com/mohit8181  
+- 🧠 LeetCode: https://leetcode.com/mohit8181
+- Portfolio: https://mohit8181.me/
 
 ---
 
